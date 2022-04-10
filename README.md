@@ -7,3 +7,15 @@
 - A Row dataset has been obtained. All values are in the dataset were being converted to their suitable datatype by using python commands.
 - Some feature engineering operations have been made. Some columns are eliminated and some new columns are created.
 - Data visualization
+- Machine learning SVM (Support Vector Machine) and deep learning RNN-LSTM models created. 
+- Predictions about future prices of Turksih Gold have been made both by using two models.
+
+# Project 2:
+# [End to end machine learning project about car price prediction.](https://github.com/Muttalip7402/CarPricePrediction/blob/main/ArabaFiyatTahmini.ipynb)
+
+- Data about used cars has scraped on the web by using python and selenium. 
+- A Row dataset has been obtained. All values are in the dataset were being converted to their suitable datatype by using python commands.
+- Some feature engineering operations have been made. 
+- Data visualization has been made by using python.
+- Machine learning model created by using pycaret.
+- Car price predictions have been done according to the model.
