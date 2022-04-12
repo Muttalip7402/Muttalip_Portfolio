@@ -19,3 +19,12 @@
 - Data visualization has been made by using python.
 - Machine learning model created by using pycaret.
 - Car price predictions have been done according to the model.
+
+# Project 3:
+# [Exploring dataset with python.](https://gist.github.com/Muttalip7402/57eb94e54c97a787a32188ade5a76d82)
+
+- BOXPLOT. 
+- A Row dataset has been obtained. All values are in the dataset were being converted to their suitable datatype by using python commands.
+- Distribution - VIOLİN
+- Correlation - Basic Scatterplot
+
