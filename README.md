@@ -13,13 +13,12 @@
 # Project 2:
 # [End to end machine learning project about car price prediction.](https://github.com/Muttalip7402/CarPricePrediction/blob/main/ArabaFiyatTahmini.ipynb)
 
-- Data about used cars has scraped on the web by using python and selenium. 
-- A Row dataset has been obtained. All values are in the dataset were being converted to their suitable datatype by using python commands.
-- Some feature engineering operations have been made. 
+- Data about used cars have been scraped on the web by using python and selenium.
+- A Row dataset has been obtained. All values in the dataset were converted to their suitable data type by using python commands.
+- Some feature engineering operations have been made.
 - Data visualization has been made by using python.
 - Machine learning model created by using pycaret.
 - Car price predictions have been done according to the model.
-
 # Project 3:
 # [Exploring dataset with python.](https://gist.github.com/Muttalip7402/57eb94e54c97a787a32188ade5a76d82)
 
