@@ -28,3 +28,8 @@
 - Distribution - VIOLİN
 - Correlation - Basic Scatterplot
 
+# Project 4:
+# [Exploring dataset with PowerBi.](https://github.com/Muttalip7402/PowerBiStudentPerformanceProject/blob/main/StudentPerformance.pdf)
+
+- Student Dataset has ben analysed. Their math, reading, writting performance analysed based on gender, race, parental educational level by using power bi visulazation techniques, Relational effects has been clarified.
+
