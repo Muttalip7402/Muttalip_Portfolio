@@ -6,7 +6,7 @@
 - Historical Turkish Gold prices have been scraped on the web by using python and selenium. 
 - A Row dataset has been obtained. All values are in the dataset were being converted to their suitable datatype by using python commands.
 - Some feature engineering operations have been made. Some columns are eliminated and some new columns are created.
-- Data visualization
+- Data visualization by Matplotlib ans seaborn
 - Machine learning SVM (Support Vector Machine) and deep learning RNN-LSTM models created. 
 - Predictions about future prices of Turksih Gold have been made both by using two models.
 
